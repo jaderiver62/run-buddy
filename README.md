@@ -1,5 +1,5 @@
 # Run Buddy, Inc
-![Run Buddy Screenshot](url)
+![Run Buddy Screenshot](https://github.com/jaderiver62/run-buddy/blob/main/assets/images/jaderiver62.github.io_run-buddy_%20(2).png?raw=true)
 
 ## Purpose
 A website that offers fitness training services. 
