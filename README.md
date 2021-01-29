@@ -1,4 +1,5 @@
 # Run Buddy, Inc
+![Run Buddy Screenshot](url)
 
 ## Purpose
 A website that offers fitness training services. 
